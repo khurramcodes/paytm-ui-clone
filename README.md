@@ -7,7 +7,7 @@
 
 ![time](https://img.shields.io/badge/time--to--complete-full--day--approx.-yellowgreen)
 
-## :link: [See it live](https://fullstack-js-bc-paytmclone.app/)
+## :link: [See it live](https://fullstack-js-bc-paytmclone.netlify.app/)
 
 ## :clipboard: Learning Outcomes 
 
