@@ -2,7 +2,7 @@
 
 ![name](https://img.shields.io/badge/Khurram-Iqbal-blue)
 
-![html-css](https://img.shields.io/badge/tailwindCSS-paytm--ui--clone-green)
+![html-css](https://img.shields.io/badge/tailwindCSS-paytm--ui--clone-red)
 
 ![time](https://img.shields.io/badge/time--to--complete-full--day--approx.-yellowgreen)
 
